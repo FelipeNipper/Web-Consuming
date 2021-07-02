@@ -8,5 +8,5 @@
 import Foundation
 struct Genres {
     var id:Int?
-    var name:String?
+    var name:String
 }

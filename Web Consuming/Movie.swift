@@ -17,5 +17,5 @@ struct Movie {
     var vote_average:Double?
     var poster_path: String?
     var genres:[Genres]?
-    var image:UIImage?
+    var image:String?
 }
